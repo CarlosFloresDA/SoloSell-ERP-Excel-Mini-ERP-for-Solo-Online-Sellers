@@ -13,24 +13,62 @@ SoloSell ERP is a lightweight Excel-based mini ERP designed for solo online sell
 - Timeline and slicers for dynamic filtering
 - Clean structure for easy customization
 
-📁 Repository Structur
+## 📁 Repository Structure
+```
 /excel
    SoloSell_ERP.xlsx
+
 /screenshots
-   dashboard.png
-   inventory.png
-   sales.png
-   expenses.png
+   Dashboard.png
+   Entry.png
+   Expensives.png
+   Inventory.png
+   Parameters.png
+   Purchases.png
+   Sales.png
+
 /docs
    data_dictionary.md
    methodology.md
-README.md
 
-🚀 How to Use
-- Enter your purchases and sales of products in the **Entry** sheet.
-- Record each expensive in the **Expensives* sheet.
-- Refresh all PivotTables to update the dashboard.
-- Use slicers and the timeline to filter by date, SKU, platform, or category
+README.md
+```
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard](screenshots/Dashboard.png)
+
+### Entry (Purchases & Sales Input)
+![Entry](screenshots/Entry.png)
+
+### Purchases
+![Purchases](screenshots/Purchases.png)
+
+### Sales
+![Sales](screenshots/Sales.png)
+
+### Inventory
+![Inventory](screenshots/Inventory.png)
+
+### Expenses
+![Expenses](screenshots/Expensives.png)
+
+### Parameters (Dropdown Lists)
+![Parameters](screenshots/Parameters.png)
+
+## 🚀 How to Use
+
+1. Enter your purchases and sales in the **Entry** sheet.  
+2. Use the macro button to automatically register sales into the system.  
+3. Check product availability and status in the **Inventory** sheet.  
+4. Update dropdown lists (SKUs, platforms, payment methods) in the **Parameters** sheet.  
+5. Refresh the Dashboard to update KPIs, charts, and business insights.  
+
+### 📄 Documentation
+
+- **Data Dictionary** → [docs/data_dictionary.docx](docs/data_dictionary.docx)  
+- **Methodology** → [docs/methodology.docx](docs/methodology.docx)
+
 
 ## License
 This project is released under the MIT License.
