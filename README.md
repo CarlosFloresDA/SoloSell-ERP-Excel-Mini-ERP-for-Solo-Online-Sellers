@@ -3,7 +3,7 @@
 SoloSell ERP is a lightweight Excel-based mini ERP designed for solo online sellers and micro‑entrepreneurs. It centralizes inventory, sales, and expenses into a dynamic dashboard powered by KPIs, PivotTables, and automated analysis. Simple, fast, and fully customizable for small digital businesses.
 
 📺 Video Tutoria
-
+https://youtu.be/ZKQgWC_3w4w
 
 📦 Features
 - Inventory tracking with automatic profit calculation
